@@ -5,3 +5,7 @@
 ##ブランチを変えました
 
 - develop
+
+##githubのeditから編集
+
+- pullの練習をします
