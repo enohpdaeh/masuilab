@@ -6,11 +6,11 @@
 
 - develop
 
-##gitahubのaediatから編集
+##githubのeditから編集
 
-- pullの実験aaaをします
+- pullの実験をします
 
-##localからa編集します
-a
-- aapullしてからlocalから変更aを加えました
-- 影響があるaaように編集しなけaaればならぬ
+##localから編集します
+
+- pullしてからlocalから変更を加えました
+- 影響があるように編集しなければならぬ
