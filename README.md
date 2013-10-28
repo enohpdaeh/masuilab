@@ -8,11 +8,9 @@
 
 ##githubのeditから編集
 
-- pullのをします
-- git pull
-- git push
+- pullの実験をします
 
 ##localから編集します
 
 - pullしてからlocalから変更を加えました
-- 影響があるように編集しなければならない
+- 影響があるように編集しなければならぬ
