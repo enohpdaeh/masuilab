@@ -9,3 +9,7 @@
 ##githubのeditから編集
 
 - pullの練習をします
+
+##localから編集します
+
+- pullしてからlocalから変更を加えました
