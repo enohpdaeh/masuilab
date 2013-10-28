@@ -8,8 +8,11 @@
 
 ##githubのeditから編集
 
-- pullの練習をします
+- pullのをします
+- git pull
+- git push
 
 ##localから編集します
 
 - pullしてからlocalから変更を加えました
+- 影響があるように編集しなければならない
